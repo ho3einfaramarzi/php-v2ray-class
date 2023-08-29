@@ -1,0 +1,11 @@
+{
+    "name": "ho3einfaramarzi/php-v2ray-class",
+    "description": "this is a class for the x-ui panels api and work with clients",
+    "autoload": {
+        "psr-4": {
+            "ho3einfaramarzi\\php-v2ray-class\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
